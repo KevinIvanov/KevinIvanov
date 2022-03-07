@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kevin4ivanov@gmail.com**
 
-- ⚡ Fun fact **I Love Coke <3**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
