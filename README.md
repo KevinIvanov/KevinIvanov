@@ -49,7 +49,7 @@
 
  </p>
      <p align="center">
-   <img src="https://c.tenor.com/3X_1ygrSDUMAAAAd/tadashi-hamada.gif" />
+   <img src="https://i.giphy.com/media/WAkTocsutMLrG/giphy.webp" />
    </p>
 
 
