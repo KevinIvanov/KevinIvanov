@@ -5,10 +5,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Kevin Ivanov | 💻 Student Developer | 🛸 Brazil , CWB <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
- 
-  <h5 align="center">
-   <i>🥃"Whisky's Good Proofing Water. Tells You Who's Real And Who Isn't." - Tommy Shelby🥃</i>
-  </h5>
+
  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ivanov911/) 
   
