@@ -46,7 +46,7 @@
 
  </p>
      <p align="center">
-   <img src="https://i.giphy.com/media/WAkTocsutMLrG/giphy.webp" />
+   <img src="https://c.tenor.com/uSNaQY2nybgAAAAC/shiba-shiny-shiba.gif" />
    </p>
 
 
