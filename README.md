@@ -44,11 +44,6 @@
 
 
 
- </p>
-     <p align="center">
-   <img src="https://c.tenor.com/uSNaQY2nybgAAAAC/shiba-shiny-shiba.gif" />
-   </p>
-
 
 
 
