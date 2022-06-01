@@ -1,5 +1,4 @@
-<div align="center">
-   <h1>Hi there, I'm <a>Kevin</a>
+
  
  <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Kevin Ivanov | 💻 Student Developer | 🛸 Brazil , CWB <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
